@@ -11,9 +11,9 @@ Diffuison 模型帮助 Dall-E/Disco Diffuison/Mid/Tiamat 实现生成逼真的�
 
 -------
 ## HuggingFace Diffuisser
-- Diffuisser 
+- [Diffuisser](https://github.com/lybiing/Diffusion/blob/main/Diffuser/diffusers_rl_ex.ipynb) 训练 diffusion 模型的notebook
 
 -------
 ## other link
 
-[OpenAI Diffuison](https://github.com/openai/guided-diffusion)
+- [OpenAI Diffuison](https://github.com/openai/guided-diffusion) OpenAI Diffusion 库的各种资料 

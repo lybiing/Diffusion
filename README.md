@@ -13,3 +13,7 @@ Diffuison 模型帮助 Dall-E/Disco Diffuison/Mid/Tiamat 实现生成逼真的�
 ## HuggingFace Diffuisser
 - Diffuisser 
 
+-------
+## other link
+
+[OpenAI Diffuison](https://github.com/openai/guided-diffusion)

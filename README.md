@@ -12,6 +12,10 @@ Diffuison 模型帮助 Dall-E/Disco Diffuison/Mid/Tiamat 实现生成逼真的�
 -------
 ## HuggingFace Diffuisser
 - [Diffuisser](https://github.com/lybiing/Diffusion/blob/main/Diffuser/diffusers_rl_ex.ipynb) 训练 diffusion 模型的notebook
+-------
+## latent majesty diffusion 
+- [majesty diffusion]（https://github.com/lybiing/Diffusion/blob/main/Latent/latent.ipynb）
+  - 作者介绍： https://github.com/multimodalart/majesty-diffusion
 
 -------
 ## other link

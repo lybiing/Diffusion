@@ -18,6 +18,11 @@ Diffuison 模型帮助 Dall-E/Disco Diffuison/Mid/Tiamat 实现生成逼真的�
   - 作者介绍： https://github.com/multimodalart/majesty-diffusion
 
 -------
+## Huemin_Jax_Diffusion_2_7
+- [Huemin_Jax_Diffusion_2_7]()
+  - [Huemin_Jax_Diffusion_2_7](https://dreamingcomputers.com/ai-articles/huemin-jax-diffusion-2-7-stitching/)
+
+-------
 ## other link
 
 - [OpenAI Diffuison](https://github.com/openai/guided-diffusion) OpenAI Diffusion 库的各种资料 

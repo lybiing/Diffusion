@@ -34,3 +34,4 @@ Diffuison 模型帮助 Dall-E/Disco Diffuison/Mid/Tiamat 实现生成逼真的�
 ## 其他AI 艺术工具
 - [持续更新的列表](https://pharmapsychotic.com/tools.html)
 - [dreamingcomputers](https://dreamingcomputers.com/)
+- [一个简化的ALLinOne 界面](https://multimodal.art/mindseye)

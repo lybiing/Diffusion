@@ -20,7 +20,7 @@ Diffuison 模型帮助 Dall-E/Disco Diffuison/Mid/Tiamat 实现生成逼真的�
 -------
 ## Huemin_Jax_Diffusion_2_7
 - [Huemin_Jax_Diffusion_2_7](https://github.com/lybiing/Diffusion/blob/main/Huemin_Jax_Diffusion/Huemin_Jax_Diffusion_2_7.ipynb)
-  - [Huemin_Jax_Diffusion_2_7](https://dreamingcomputers.com/ai-articles/huemin-jax-diffusion-2-7-stitching/)
+  - [基础介绍](https://dreamingcomputers.com/ai-articles/huemin-jax-diffusion-2-7-stitching/)
 
 -------
 ## other link

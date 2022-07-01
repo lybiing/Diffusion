@@ -19,9 +19,13 @@ Diffuison 模型帮助 Dall-E/Disco Diffuison/Mid/Tiamat 实现生成逼真的�
 
 -------
 ## Huemin_Jax_Diffusion_2_7
+科幻插画风格AI
 - [Huemin_Jax_Diffusion_2_7](https://github.com/lybiing/Diffusion/blob/main/Huemin_Jax_Diffusion/Huemin_Jax_Diffusion_2_7.ipynb)
   - [基础介绍](https://dreamingcomputers.com/ai-articles/huemin-jax-diffusion-2-7-stitching/)
-
+--------
+## Pixel_Art_Diffusion
+像素风格AI
+- [Pixel_Art_Diffusion](https://github.com/lybiing/Diffusion/blob/main/Pixel_Art_Diffusion/Pixel_Art_Diffusion_v3_0.ipynb)
 -------
 ## other link
 

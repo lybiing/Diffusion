@@ -28,4 +28,4 @@ Diffuison 模型帮助 Dall-E/Disco Diffuison/Mid/Tiamat 实现生成逼真的�
 - [OpenAI Diffuison](https://github.com/openai/guided-diffusion) OpenAI Diffusion 库的各种资料 
 --------
 ## 其他AI 艺术工具
-- [持续更新的列表]（https://pharmapsychotic.com/tools.html）
+- [持续更新的列表](https://pharmapsychotic.com/tools.html)
